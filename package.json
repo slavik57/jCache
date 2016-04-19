@@ -1,0 +1,27 @@
+{
+  "name": "jCache",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha -c -b src/**/*.test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/slavik57/jCache.git"
+  },
+  "keywords": [
+    "jCache",
+	"cache"
+  ],
+  "author": "Slava Shpitalny <slavik57@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/slavik57/jCache/issues"
+  },
+  "homepage": "https://github.com/slavik57/jCache#readme",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "sinon": "^1.17.3"
+  }
+}
