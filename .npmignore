@@ -8,3 +8,4 @@ typings.json
 .npmignore
 *.test.js
 *.test.d.ts
+.atomignore
